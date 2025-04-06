@@ -13,6 +13,7 @@ There are valid screenshots of the GitHub user dashboard. These fulfill the crit
 ![](./assets/github-landing.png)
 
 ![](./assets/github-dashboard.png)
+![](./assets/github-repo.png)
 ![](./assets/github-index.html.png)
 
 
